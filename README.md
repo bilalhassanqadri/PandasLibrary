@@ -1,3 +1,3 @@
 # PandasLibrary
 
-my pratice for pandas library functions reading files serires columns applying filtring 
+you can have the pratice for pandas library functions reading files serires columns applying filtring 
